@@ -1,0 +1,222 @@
+/*body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    min-height: 20vh;
+    
+    background-color: #1f2937;
+}*/
+
+.menu-container {
+    color: #fff;
+    background-color: #1f2937;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    /*margin-right: 300px*/;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    gap: 20;
+    float: right;
+}
+
+
+.login {
+    margin-left: 20px;
+}
+
+.signup {
+    margin-left: auto;
+}
+
+.lug {
+    margin-left: 20px;
+}
+
+.website {
+    max-width: 200px;
+    color: black;
+    font-size: xx-large;
+    justify-content: center;
+    margin-left: 150px;
+    flex-direction: row;
+   
+}
+
+.container {
+    display: flex;
+    /*align-items: center;
+    justify-content: center;*/
+    justify-content: space-between;
+    background-color: #1f2937;
+    padding-bottom: 50px;
+   
+}
+
+img {
+    max-width: 500px;
+    max-height: 300px;
+    display: flex;
+    
+}
+
+.text {
+    font-size: 10px;
+    padding-left: 20px;
+    color: white;
+}
+
+h1 {
+    /*display: flex;*/
+    justify-content: end;
+    max-width: 200px;
+    padding-top: 50px;
+    margin-left: 130px;
+    font-size: x-large;
+    justify-content: flex-start;
+}
+
+h2 {
+    padding: 0;
+    margin-left: 130px;
+    max-width: 600px;
+    font-size: 15px;
+
+}
+
+.wild {
+    /*display: flex;*/
+    float: right;
+    max-width: 800px;
+    max-height: 200px;
+    padding-top: 50px;
+    margin-right: 100px;
+   
+}
+
+
+button {
+    color: white;
+    background-color: #5995da;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 24px;
+    font-size: large;
+    margin-left: 125px;
+
+}
+
+
+.cent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    padding: 30px;
+    background-color: white;
+    font-weight: bolder;
+
+
+}
+
+
+.flex-parent {
+    display: flex;
+    width: 50;
+}
+
+.chid {
+    
+    border: 2px solid red;
+    margin: 10px;
+    height: 50px;
+}
+
+
+.cloud {
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
+
+.containa {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    justify-content: center;
+    background-color: white;
+}
+
+
+.quotes {
+    color: black;
+    display: inline-block;
+
+}
+
+.parent {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    
+
+}
+
+.texxt {
+    padding-bottom: 50px;
+}
+
+.footer {
+    display: flex;
+    height: 72px;
+    background-color: #5995da;
+    justify-content: center;
+    align-items: center;
+}
+
+.thor {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bolder;
+}
+
+.sign-box {
+    
+    background-color: #5995da;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 400px;
+    width: 900px;
+}
+
+.highness {
+    display: flex;
+}
+
+.fox {
+    display: flex;
+}
+
+.demo {
+    display: flex;
+}
+
+.sign-up {
+    display: flex;
+    color: black;
+}
+
